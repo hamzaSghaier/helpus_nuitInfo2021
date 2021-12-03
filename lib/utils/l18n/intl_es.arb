@@ -1,0 +1,155 @@
+{
+  "@@last_modified": "2021-12-03T04:08:41.825235",
+  "title": "ayúdenos",
+  "@title": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mydonation": "1. mi donación",
+  "@mydonation": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHourBoat": "Salida de 1 hora en bote salvavidas",
+  "@oneHourBoat": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "twoJacket": "2 chalecos salvavidas para una madre y su hijo",
+  "@twoJacket": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneDayyOfSupport": "1 día de soporte a bordo",
+  "@oneDayyOfSupport": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resecureKit": "Kit de rescate: Zodiac, chalecos salvavidas y bienvenida.",
+  "@resecureKit": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theseequivalance": "Estas equivalencias se dan solo a título informativo. Mi donación se puede utilizar para todas las actividades de SOS.",
+  "@theseequivalance": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mycontact": "2. Mi contacto",
+  "@mycontact": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAdresse": "Dirección E-mail",
+  "@emailAdresse": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "firsrName": "Nombre de pila",
+  "@firsrName": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "apellido",
+  "@lastName": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "toValidate": "Validar",
+  "@toValidate": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "therteen": "30",
+  "@therteen": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifteen": "50",
+  "@fifteen": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHundred": "100",
+  "@oneHundred": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHundredtwentyfour": "180",
+  "@oneHundredtwentyfour": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Siguiente",
+  "@next": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Hola",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error_connecting_alert": "Error Connecting , please try again !  ",
+  "@error_connecting_alert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error_network_alert": "Error Connecting  , please check your connection and try again ",
+  "@error_network_alert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_leave_dialog": "Are you sure you want to leave ?",
+  "@confirm_leave_dialog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes_exit_label": "Yes, exit",
+  "@yes_exit_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_exit_label": "No",
+  "@no_exit_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home_label": "o",
+  "@home_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile_label": "país",
+  "@profile_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_exit_dialog": "Are you sure you want to exit ?",
+  "@confirm_exit_dialog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_exit_app_dialog": "Are you sure you want to exit the application ?",
+  "@confirm_exit_app_dialog": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

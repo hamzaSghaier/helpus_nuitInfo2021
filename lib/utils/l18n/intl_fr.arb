@@ -1,0 +1,155 @@
+{
+  "@@last_modified": "2021-12-03T04:08:41.825235",
+  "title": "Aidez nous",
+  "@title": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mydonation": "1. Mon don",
+  "@mydonation": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHourBoat": "1 heure de bateau pour un canot de sauvetage",
+  "@oneHourBoat": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "twoJacket": "2 gilets de sauvetage pour une mère et son enfant",
+  "@twoJacket": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneDayyOfSupport": "1 journée de prise en charge à bord",
+  "@oneDayyOfSupport": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resecureKit": "Kit de sauvetage : Zodiac, gilets et accueil",
+  "@resecureKit": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theseequivalance": "Ces équivalences sont données à titre indicatif. Mon don pourra être affecté à l’ensemble des activités de SOS.",
+  "@theseequivalance": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mycontact": "2. Mes coordonnées",
+  "@mycontact": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAdresse": "Adresse E-mail",
+  "@emailAdresse": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "firsrName": "Prénom",
+  "@firsrName": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "Nom",
+  "@lastName": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "toValidate": "Valider",
+  "@toValidate": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "therteen": "30",
+  "@therteen": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifteen": "50",
+  "@fifteen": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHundred": "100",
+  "@oneHundred": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHundredtwentyfour": "180",
+  "@oneHundredtwentyfour": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "Suivant",
+  "@next": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Bonjour",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error_connecting_alert": "Error Connecting , please try again !  ",
+  "@error_connecting_alert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error_network_alert": "Error Connecting  , please check your connection and try again ",
+  "@error_network_alert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_leave_dialog": "Are you sure you want to leave ?",
+  "@confirm_leave_dialog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes_exit_label": "Yes, exit",
+  "@yes_exit_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_exit_label": "No",
+  "@no_exit_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home_label": "OU",
+  "@home_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile_label": "pays",
+  "@profile_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_exit_dialog": "Are you sure you want to exit ?",
+  "@confirm_exit_dialog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_exit_app_dialog": "Are you sure you want to exit the application ?",
+  "@confirm_exit_app_dialog": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

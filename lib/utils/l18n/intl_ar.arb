@@ -1,0 +1,155 @@
+{
+  "@@last_modified": "2021-12-03T04:08:41.825235",
+  "title": "ساعدنا",
+  "@title": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mydonation": "١. تبرعي",
+  "@mydonation": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHourBoat": "تكلفة قارب نجاة لمدة ساعة",
+  "@oneHourBoat": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "twoJacket": "٢ سترات نجاة للأم وطفلها",
+  "@twoJacket": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneDayyOfSupport": "يوم الدعم على متن الطائرة",
+  "@oneDayyOfSupport": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "resecureKit": "طقم الإنقاذ: زودياك وسترات نجاة وترحيب",
+  "@resecureKit": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theseequivalance": "يتم إعطاء هذه المعادلات للعلم فقط. يمكن استخدام تبرعي لجميع أنشطة الإنقاد ",
+  "@theseequivalance": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "mycontact": "٢. معطياتي الشخصية",
+  "@mycontact": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailAdresse": "البريد الإلكتروني",
+  "@emailAdresse": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "firsrName": "الاسم",
+  "@firsrName": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "lastName": "اللقب",
+  "@lastName": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "toValidate": "أكد",
+  "@toValidate": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "therteen": "٣٠",
+  "@therteen": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "fifteen": "٥٠",
+  "@fifteen": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHundred": "١٠٠",
+  "@oneHundred": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "oneHundredtwentyfour": "١٨٠",
+  "@oneHundredtwentyfour": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "next": "التالي",
+  "@next": {
+    "description": " ",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "أهلا",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error_connecting_alert": "Error Connecting , please try again !  ",
+  "@error_connecting_alert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error_network_alert": "Error Connecting  , please check your connection and try again ",
+  "@error_network_alert": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_leave_dialog": "Are you sure you want to leave ?",
+  "@confirm_leave_dialog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes_exit_label": "Yes, exit",
+  "@yes_exit_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "no_exit_label": "No",
+  "@no_exit_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "home_label": "أو",
+  "@home_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "profile_label": "بلد",
+  "@profile_label": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_exit_dialog": "Are you sure you want to exit ?",
+  "@confirm_exit_dialog": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm_exit_app_dialog": "Are you sure you want to exit the application ?",
+  "@confirm_exit_app_dialog": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
